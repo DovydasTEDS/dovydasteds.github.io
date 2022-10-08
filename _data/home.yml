@@ -1,0 +1,27 @@
+navbar_entries:
+  - title: about
+    url: about
+
+  - title: blog
+    url: blog
+
+  - title: discord
+    url: https://tedps.tk/discord
+
+project_entries:
+  - title: This Website
+    url: dovydasteds-tk
+    desc: This is the site you are on right now!
+    highlight: WIP
+
+old_project_entries:
+  - title: teamtedps.tk
+    url: https://teamtedps.tk
+    desc: My old website.
+    highlight: OLD
+
+footer_entries:
+  - title: homepage
+    url: {{ site.url }}
+  - title: feed
+    url: feed.xml

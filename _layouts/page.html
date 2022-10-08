@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<a href="{{ "/" | relative_url }}">{{ site.theme_config.back_home_text }}</a>
+<h1 class="post-title">
+    {% if page.title == "404!" %}
+    {% else %}
+    {{ page.title }}
+    {% endif %}
+</h1>
+{{ content }}

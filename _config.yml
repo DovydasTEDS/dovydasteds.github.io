@@ -23,7 +23,7 @@ email: support@tedps.tk
 description: >- # this means to ignore newlines until "baseurl:"
   A website by DovydasTEDS of cool projects.
 baseurl: "" # the subpath of your site, e.g. /blog
-twitter_username: BarnabyTEDPS
+twitter_username: BarnabyTEDS
 github_username:  DovydasTEDS
 domain: dovydasteds.tk       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://dovydasteds.tk  # the base hostname and protocol for your site, e.g. http://example.com

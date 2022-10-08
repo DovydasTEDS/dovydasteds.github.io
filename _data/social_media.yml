@@ -1,0 +1,47 @@
+twitter:
+  id: 'BarnabyTEDS'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter'
+
+reddit:
+  id: 'DovydasTEDS'
+  href: 'https://reddit.com/u/'
+  title: 'Reddit'
+  fa-icon: 'fa-reddit'
+
+github:
+  id: 'DovydasTEDS'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github'
+
+discord:
+  id: 'rMqJ9gsSrU'
+  href: 'https://discord.gg/'
+  title: 'Discord'
+  fa-icon: 'fa-discord'
+
+steam:
+  id: 'dovydasteds'
+  href: 'https://steamcommunity.com/id/'
+  title: 'Steam'
+  fa-icon: 'fa-steam'
+
+xbox:
+  id: 'DovydasTEDS'
+  href: 'https://live.xbox.com/Profile?Gamertag='
+  title: 'Xbox'
+  fa-icon: 'fa-xbox'
+
+twitch:
+  id: 'DovydasTEDS'
+  href: 'https://twitch.tv/'
+  title: 'Twitch'
+  fa-icon: 'fa-twitch'
+
+itch:
+  id: ''
+  href: 'https://dovydasteds.itch.io'
+  title: 'Itch'
+  fa-icon: 'fa-itch-io'

@@ -9,5 +9,8 @@ layout: default
     {{ page.title }}
     {% endif %}
 </h1>
-{% include date_and_social_share.html %}
+{% if page.title == "404!" %}
+    {% else %}
+    {% include date_and_social_share.html %}
+    {% endif %}
 {{ content }}

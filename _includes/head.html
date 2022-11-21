@@ -14,13 +14,11 @@
   {% seo title=false %}
   {% feed_meta %}
 
-  <link rel="shortcut icon" type="image/x-icon" href="/{{ site.favicon | relative_url }}" />
+  {%- include custom_head.html -%}
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}" />
   <link href="/assets/css/fontawesome.min.css" rel="stylesheet">
   <link href="/assets/css/brands.min.css" rel="stylesheet">
   {% if site.theme_config.appearance_toggle %}
     {% include toggle_theme_js.html %}
   {% endif %}
-
-  {%- include custom_head.html -%}
 </head>

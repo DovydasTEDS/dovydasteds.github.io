@@ -6,11 +6,13 @@ ul.horizontal-list {
   flex-wrap: wrap;
 
   li {
+    text-decoration: none;
     display:inline;
     margin-right: 1em;
   }
 
   li a {
+    text-decoration: none;
     font-weight: normal
   }
 

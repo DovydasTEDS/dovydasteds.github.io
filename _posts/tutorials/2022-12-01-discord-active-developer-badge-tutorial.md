@@ -3,6 +3,7 @@ layout: post
 title:  "Discord Active Developer Badge Tutorial"
 author: DovydasTEDS
 date:   2022-12-01 20:15:41 +0000
+categories: [posts, tutorials]
 ---
 
 In this tutorial, I will be going over how to get the discord active developer badge.
@@ -41,4 +42,4 @@ Finally, go to the [Discord Active Developers](https://discord.com/developers/ac
 
 **NOTE:** Make sure you have the “Use data to improve Discord” setting enabled under User Settings > Privacy & Safety otherwise you won't be able to be marked as eligible.
 
-Credits to [hackermondev](https://github.com/hackermondev) for making the repository for this to work.
+Credits to [hackermondev](https://github.com/hackermondev) for making the repository for this to work. Thanks for reading!

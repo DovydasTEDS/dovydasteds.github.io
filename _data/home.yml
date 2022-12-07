@@ -2,8 +2,8 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
-    url: blog
+  - title: posts
+    url: posts
 
   - title: discord
     url: https://tedps.tk/discord

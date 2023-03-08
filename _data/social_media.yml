@@ -1,3 +1,10 @@
+youtube:
+  id: 'UC9EpPogEb0RojwB0qKM6WXA'
+  href: 'https://www.youtube.com/channel/'
+  title: 'Youtube'
+  fa-icon: 'fa-youtube'
+
+
 twitter:
   id: 'DovydasTEDS'
   href: 'https://www.twitter.com/'

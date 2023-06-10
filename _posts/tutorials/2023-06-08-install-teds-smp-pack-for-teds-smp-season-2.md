@@ -27,5 +27,5 @@ If you use the vanilla launcher, you will follow these steps!
 ## Any other launcher
 
 If your launcher of choice supports .mrpack files, you are in luck!
-Click [this](https://cdn.tedps.tk/teds_smp_s2-2.0.0.mrpack) to download the .mrpack and install it. For Prism Launcher you can just run the file I think.
+Click [this](https://cdn.tedps.tk/teds_smp_s2-2.1.0.mrpack) to download the .mrpack and install it. For Prism Launcher you can just run the file I think.
 

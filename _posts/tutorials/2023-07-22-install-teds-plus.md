@@ -6,7 +6,7 @@ date:   2023-07-22 14:01:30 +0100
 categories: [posts, tutorials]
 ---
 
-In this tutorial, I will be going over on how to install the modpack for TEDS SMP Season 2!
+In this tutorial, I will be going over on how to install TEDS Plus!
 
 
 ## Vanilla launcher

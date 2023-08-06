@@ -39,7 +39,7 @@ Launchers supported: Prism Launcher, MultiMC, ATLauncher, and more.
 Recommended Launchers:
 - [Prism Launcher](https://prismlauncher.org/)*
 - [MultiMC](https://multimc.org/)*
-- [Modrinth Launcher \(Alpha)](https://github.com/modrinth/theseus/actions/workflows/tauri-build.yml)
+- [Modrinth Launcher \(Alpha)](https://modrinth.com/app)
 - [ATLauncher](https://atlauncher.com/)
 
 \* - Requires JRE / JDK Installation

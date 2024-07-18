@@ -7,7 +7,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
   gem 'jekyll-avatar'
-  gem 'jekyll-feed'
+  gem 'jekyll-feed', '>= 0.16.0'
   gem 'jekyll-relative-links'
   gem 'jekyll-gist'
 end

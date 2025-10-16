@@ -9,12 +9,16 @@ navbar_entries:
     url: https://tedps.tk/discord
 
 project_entries:
-  - title: This Website
-    url: dovydasteds-tk
-    desc: This is the site you are on right now!
+  - title: teds.one
+    url: https://teds.one
+    desc: The new home of TEDS
     highlight: WIP
 
 old_project_entries:
+  - title: This Website
+    url: dovydasteds-tk
+    desc: This is the site you are on right now!
+    highlight: OLD
   - title: teamtedps.tk
     url: https://teamtedps.tk
     desc: My old website.
